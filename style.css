@@ -10,3 +10,7 @@ body {
   font-family: 'Roboto Mono', monospace;
   font-size: 19px;
 }
+
+.container {
+  display: flex;
+}
