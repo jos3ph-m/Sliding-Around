@@ -14,3 +14,7 @@ body {
 .container {
   display: flex;
 }
+
+.bottom {
+  position: fixed;
+}
