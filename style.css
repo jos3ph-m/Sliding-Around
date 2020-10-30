@@ -17,4 +17,6 @@ body {
 
 .bottom {
   position: fixed;
+  display: flex;
+  align-items: center;
 }
